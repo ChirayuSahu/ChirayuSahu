@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirayusahu&show_icons=true&locale=en&layout=compact" alt="chirayusahu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirayusahu&show_icons=true&locale=en" alt="chirayusahu" /></p>
+![](https://komarev.com/ghpvc/?username=ChirayuSahu)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirayusahu&" alt="chirayusahu" /></p>
