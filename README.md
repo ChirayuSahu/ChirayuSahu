@@ -65,14 +65,3 @@ Currently exploring AI tooling, Rust and system design.
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop)
-
-## Featured projects
-
-- **[API Tools](https://apitools.chirayusahu.com/)**: an OpenRouter-style gateway that brings multiple APIs together in one place.
-- **[Gravitas'25](https://gravitas25.chirayusahu.com/)**: event website with over 20M impressions.
-- **[Riviera'26](https://riviera26.vercel.app/)**: website for VIT Vellore's annual cultural fest.
-- **[Envoy](https://envoy.dscvit.com)**: secure sharing of environment variables across dev teams. ([source](https://github.com/GDGVIT/envoy))
-- **[Women Techies Showcase](https://wt26.chirayusahu.com/)**: website for GDG-VIT's hackathon.
-- **[UPI Redirection API](https://upi-api.chirayusahu.com/)**: Flask API that routes UPI payments by amount. ([source](https://github.com/ChirayuSahu/upiRedirectionAPI))
-
-More at **[chirayusahu.com](https://chirayusahu.com)**.
